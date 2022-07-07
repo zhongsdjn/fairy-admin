@@ -1,0 +1,2 @@
+# fairy-admin
+amin
