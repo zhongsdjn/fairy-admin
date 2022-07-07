@@ -1,2 +1,2 @@
 # fairy-admin
-amin
+admin平台
