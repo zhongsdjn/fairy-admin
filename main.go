@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	fairy_admin "github.com/zhongsdjn/fairy-admin"
 )
 
 func main() {
-	r := gin.Default()
+	r := fairy_admin.Routers()
 	err := r.Run("127.0.0.1:8080")
 	if err != nil {
 		return
